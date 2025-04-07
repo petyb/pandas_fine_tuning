@@ -1,4 +1,4 @@
-# Fine tuning code generating model
+# Fine tuning code generation model
 
 This is my solution for the test assignment for the JetBrains Internship
 
